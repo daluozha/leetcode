@@ -11,4 +11,4 @@ var summaryRanges = function(nums) {
         }
     }
     return res
-};git 
+};
