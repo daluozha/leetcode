@@ -10,7 +10,7 @@ var equalSubstring = function(s, t, maxCost) {
     while(right<s.length){
         cost+=Math.abs(s[right].charCodeAt()-t[right].charCodeAt())
         right++
-        if(cost > maxCost){
+        while(cost > maxCost){
             cost-=Math.abs(s[left].charCodeAt()-t[left].charCodeAt())
             left++
         }
