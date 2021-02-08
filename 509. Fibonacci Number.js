@@ -7,7 +7,7 @@ var fib = function(n) {
     // let map = {}
     // return n < 2 ? n : map[n] ? map[n] : map[n] = fib(n-1) + fib(n-2)
 
-    // 法二
+    // 法二 动态规划
     let dp=new Array(n+1).fill(0)
     dp[1]=1
     for(let i=2;i<n+1;i++){
