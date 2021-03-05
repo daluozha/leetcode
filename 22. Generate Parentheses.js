@@ -12,4 +12,6 @@ var generateParenthesis = function(n) {
     }
     dfs(0,0,'')
     return result
+
+    // todo dp
 };
