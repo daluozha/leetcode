@@ -38,6 +38,7 @@ MinStack.prototype.push = function(val) {
     //     diff < 0 && (this.min = val)
     // }
 
+    // 法三
     if(!this.stack.length){
         this.stack.push(new Node(val, val))
     }else{
