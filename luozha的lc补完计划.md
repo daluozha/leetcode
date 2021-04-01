@@ -26,9 +26,9 @@ todo: 7 26 122 136 146 217 231 **235** **236** 237
 | **leetcode 206** | 反转链表                 |   1     |
 | **leetcode 141**    | 环形链表                 |   1     |
 | leetcode 86     | 分隔链表                 | 1 |
-| leetcode 61     | 旋转链表                 |        |
-| 剑指 Offer 22   | 链表中倒数第k个节点      |        |
-| 剑指 Offer 52： | 两个链表的第一个公共节点 |        |
+| leetcode 61     | 旋转链表                 | 1 |
+| 剑指 Offer 22   | 链表中倒数第k个节点      | 1 |
+| 剑指 Offer 52： | 两个链表的第一个公共节点 | 1 |
 | **24** | [ 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | 1 |
 
 ### 字符串
