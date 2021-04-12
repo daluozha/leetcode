@@ -26,3 +26,5 @@ function inOrder(node, arr) {
     arr.push(node.val)
     inOrder(node.right, arr)
 }
+
+// todo 不同解法
