@@ -1,4 +1,5 @@
 /**
+ * 巴什博弈
  * tag:动态规划
  * @param {number} n
  * @return {boolean}
